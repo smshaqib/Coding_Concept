@@ -20,7 +20,7 @@ int main(){
 
     cout<<v[0]<<" "<<v[1]<<" "<<v[2]<<endl; ///3 2 3
 
-    //size of vectopr
+    //size of vector
 
     cout<<v.size()<<endl; ///3
 
@@ -178,5 +178,11 @@ int main(){
     cout<< max_element(a.begin(),a.end()) - a.begin()<<endl; ///3
     //gives max elements value
     cout<< *max_element(a.begin(),a.end())<<endl; ///5
+
+    //it erases the first element of the vector
+    a.erase(a.begin);
+
+    //it gives the first value ( we are getting the value using pointer )
+    int val = *a.begin();
 
 }
