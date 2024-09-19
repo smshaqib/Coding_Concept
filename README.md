@@ -1,4 +1,4 @@
-# 📘 Concepts for Coding
+# 📘 Concepts for C++ Coding
 
 Welcome to this repository, a collection of key concepts and techniques for competitive programming and the overall theory you need to know as a programmer. This repository, created by SM Shaqib, gathers valuable insights from various resources to help you master problem-solving skills.
 
